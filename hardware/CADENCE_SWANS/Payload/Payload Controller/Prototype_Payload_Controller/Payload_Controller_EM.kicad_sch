@@ -221,6 +221,12 @@
 		(uuid "44d91c22-25f6-4a90-b7bb-c123687e75d3")
 	)
 	(junction
+		(at 322.58 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dfa56e3-5413-444c-917f-175ec54d9346")
+	)
+	(junction
 		(at 313.69 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -235,6 +241,16 @@
 			(type default)
 		)
 		(uuid "08a384d8-ef8e-4e51-ab10-fe5c30fc4b1e")
+	)
+	(wire
+		(pts
+			(xy 322.58 107.95) (xy 322.58 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18785164-79b9-40ba-a7db-3cbe9daf3702")
 	)
 	(wire
 		(pts
@@ -265,6 +281,16 @@
 			(type default)
 		)
 		(uuid "2bd6743c-fe82-41eb-9d66-19c91988a8a7")
+	)
+	(wire
+		(pts
+			(xy 318.77 111.76) (xy 322.58 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42833f73-9230-4bd0-8c5e-bff3c65197da")
 	)
 	(wire
 		(pts
@@ -308,7 +334,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 107.95) (xy 327.152 107.95)
+			(xy 318.77 107.95) (xy 322.58 107.95)
 		)
 		(stroke
 			(width 0)
@@ -406,6 +432,16 @@
 		)
 		(uuid "c4eeb051-c4fd-45ab-9453-751103f50fab")
 	)
+	(wire
+		(pts
+			(xy 318.77 107.95) (xy 318.77 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5d7a340-8de2-4a34-a62b-b66caed3815e")
+	)
 	(bus
 		(pts
 			(xy 321.3572 131.572) (xy 321.3572 145.5892)
@@ -455,6 +491,16 @@
 			(type default)
 		)
 		(uuid "ec1b75dd-071f-4287-9e1c-444283f24a1a")
+	)
+	(wire
+		(pts
+			(xy 322.58 107.95) (xy 327.152 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd6dc833-ee1b-425a-8e21-5aa307d9e8b8")
 	)
 	(symbol
 		(lib_id "power:GND")
