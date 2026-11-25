@@ -2777,7 +2777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f56c427-3b59-4e6c-8895-50f891a11ff4")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR088"
 			(at 93.98 100.33 0)
 			(effects
 				(font
@@ -2827,7 +2827,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR0155")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -2913,7 +2913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c7c1da2-3efb-469d-8a82-ac604c281b7d")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR087"
 			(at 78.74 95.25 0)
 			(effects
 				(font
@@ -2963,7 +2963,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR091")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -2979,7 +2979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48b898e4-d9f6-4611-8648-f92a15eb877e")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR086"
 			(at 68.58 60.96 0)
 			(effects
 				(font
@@ -3029,7 +3029,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR090")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -3045,7 +3045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b9eef1a-a771-4ebe-a94d-a718e917cfb6")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR092"
 			(at 132.08 48.26 0)
 			(effects
 				(font
@@ -3095,7 +3095,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR095")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -3245,7 +3245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bc0a32a-6789-40b5-b6e1-3a4ce0ebd073")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR089"
 			(at 118.11 58.42 0)
 			(effects
 				(font
@@ -3295,7 +3295,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR092")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -3385,7 +3385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "888ce0d8-2bcd-481f-9598-e3e97fb807e9")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR090"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -3435,7 +3435,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR093")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -3655,7 +3655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e53aa2b7-ae77-4aec-86e9-04114cb1b302")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR091"
 			(at 132.08 35.56 0)
 			(effects
 				(font
@@ -3705,7 +3705,7 @@
 		(instances
 			(project "Payload_Controller_EM"
 				(path "/866a965d-c307-40b7-9977-69e77fc0dc82/7acf6d3b-d272-4af5-ad05-5ed10a438eac"
-					(reference "#PWR094")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
